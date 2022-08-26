@@ -6,7 +6,7 @@ A simple, fully convolutional model for real-time instance segmentation in vitre
 # Installation
  - Clone this repository and enter it:
    ```Shell
-   git clone https://github.com/dbolya/yolact.git
+   git clone https://github.com/rgnespolo/YOLACT_Retina_Public.git
    cd yolact
    ```
  - Set up the environment using one of the following methods:
