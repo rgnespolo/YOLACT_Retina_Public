@@ -2,8 +2,9 @@
 A simple, fully convolutional model for real-time instance segmentation in vitreoretinal procedures. 
 Paper published with this work:
 ```
-Nespolo, R. G., Yi, D., Cole, E., Warren, A., Wang, D., & Leiderman, Y. I. (2022). Feature Tracking and Segmentation in Real Time via Deep Learning in Vitreoretinal Surgery–A platform for AI-Mediated Surgical Guidance. Ophthalmology Retina.
-DOI: https://doi.org/10.1016/j.oret.2022.10.002
+Nespolo, R. G., Yi, D., Cole, E., Warren, A., Wang, D., & Leiderman, Y. I. (2022). 
+Feature Tracking and Segmentation in Real Time via Deep Learning in Vitreoretinal Surgery–A platform for AI-Mediated Surgical Guidance. 
+Ophthalmology Retina. DOI: https://doi.org/10.1016/j.oret.2022.10.002
 ```
 
 
